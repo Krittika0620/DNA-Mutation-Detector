@@ -47,7 +47,7 @@ Core programming concepts:
 
 Clone the repository:
 
-git clone https://github.com/your-username/DNA-Mutation-Detector.git
+git clone https://github.com/Krittika0620/DNA-Mutation-Detector.git
 
 
 Navigate to the project directory:
